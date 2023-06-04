@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya6789" alt="riya6789" /></a> </p>
 
-- 🔭 I’m currently working on **"How-To-Project"**
-
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m learning **Full Stack development, AR/VR technology and UI/UX designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
